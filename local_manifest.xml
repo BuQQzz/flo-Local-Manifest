@@ -4,9 +4,9 @@
 
   <remote fetch="git://github.com/" name="gh" />
 
-  <project name="BuQQzz/android_device_asus_flo" path="device/asus/flo" remote="gh" revision="lineage-15.0" />
+  <project name="BuQQzz/android_device_asus_flo" path="device/asus/flo" remote="gh" revision="o8.1" />
 
-  <project name="BuQQzz/proprietary_vendor_asus" path="vendor/asus"  remote="gh" revision="lineage-15.1" />
+  <project name="BuQQzz/proprietary_vendor_asus" path="vendor/asus"  remote="gh" revision="lineage-o8.1" />
 
 </manifest>
 
