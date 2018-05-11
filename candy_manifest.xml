@@ -4,7 +4,7 @@
 
   <remote fetch="git://github.com/" name="gh" />
 
-  <project name="BuQQzz/proprietary_vendor_asus" path="vendor/asus"  remote="gh" revision="lineage-o8.1" />
+  <project name="BuQQzz/proprietary_vendor_asus" path="vendor/asus"  remote="gh" revision="o8.1" />
 
 </manifest>
 
